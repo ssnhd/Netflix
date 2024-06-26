@@ -20,4 +20,4 @@ Netflix 会员价格有三种模式，本文价格摘录于 Netflix 官网 Premi
 11. 🇵🇰巴基斯坦 28.7 元：https://help.netflix.com/zh-cn/node/24926/pk
 12. 🇹🇷土耳其 50.6 元：https://help.netflix.com/zh-cn/node/24926/tr
 
-其他国家请点击官网查看：https://help.netflix.com/zh-cn/node/24926/in
+其他国家请点击官网查看：https://help.netflix.com/zh-cn/node/24926
